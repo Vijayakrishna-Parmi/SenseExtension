@@ -1,0 +1,2 @@
+# SenseExtension
+Extensions for QlikSense
